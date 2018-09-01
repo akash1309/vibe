@@ -1,2 +1,2 @@
 # website
-making a website for music using pthyon and django
+making a music website using pthyon and django
